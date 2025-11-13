@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm SANSKAR SINHA</h1>
+<h1 align="center">Hi 👋, I'm SHIVANSHU SHUKLA</h1>
 <h3 align="center">A passionate MERN Stack Developer 🚀</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development (MERN Stack)**  
 - 💻 I'm confident with **HTML, CSS, JavaScript, C++, Python**  
 - ⚛️ Exploring **React.js**, and building dynamic frontend projects  
 - 🌐 Diving deeper into **Node.js, Express.js & MongoDB**  
-- 🧠 Practicing **DSA** regularly on platforms like **[LeetCode](https://leetcode.com/u/sanskar225/)**  
+- 🧠 Practicing **DSA** regularly on platforms like **[LeetCode](https://leetcode.com/u/Shivanshu1512/)**  
 - ✨ Fun Fact: I love clean UI and debugging gives me joy!
 
 ---
