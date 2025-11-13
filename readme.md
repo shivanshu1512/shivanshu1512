@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHIVANSHU SHUKLA</h1>
-<h3 align="center">A passionate MERN Stack Developer 🚀</h3>
+<h3 align="center">A passionate Competitive Programmer and ML Developer  🚀</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development (MERN Stack)**  
 - 💻 I'm confident with **HTML, CSS, JavaScript, C++, Python**  
@@ -35,16 +35,16 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar225&layout=compact&theme=radical" alt="Top Languages" height="180" width="355" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskar225&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu1512&layout=compact&theme=radical" alt="Top Languages" height="180" width="355" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanshu1512&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
   <!-- <img src="https://streak-stats.demolab.com?user=sanskar225&theme=radical" alt="GitHub Streak" height="200" /> -->
 </p>
 
 ---
 
 ### 📫 How to reach me:
-- **Email**: [sanskarsinha225@gmail.com](mailto:sanskarsinha225@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sanskar-sinha-185a36326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email**: [shivanshu1512@gmail.com](mailto:shivanshu1512@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/shivanshu-shukla-7aa482327)
 
 ---
 
