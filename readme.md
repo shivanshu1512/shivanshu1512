@@ -6,6 +6,8 @@
 - ⚛️ Exploring **React.js**, and building dynamic frontend projects  
 - 🌐 Diving deeper into **Node.js, Express.js & MongoDB**  
 - 🧠 Practicing **DSA** regularly on platforms like **[LeetCode](https://leetcode.com/u/Shivanshu1512/)**  
+**[CodeForces](https://codeforces.com/profile/shukla_1512)**  
+- ✨
 - ✨ Fun Fact: I love clean UI and debugging gives me joy!
 
 ---
