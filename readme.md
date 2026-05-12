@@ -1,44 +1,78 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        BANNER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivanshu%20Shukla&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20%7C%20Deep%20Learning%20%7C%20Competitive%20Programming&descAlignY=55&descSize=20" />
-
-<!-- Typing SVG -->
-<a href="https://github.com/shivanshu1512">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=🤖+ML+%26+Deep+Learning+Practitioner;🔥+PyTorch+%7C+TensorFlow+%7C+Scikit-Learn;⚡+Competitive+Programmer+%7C+C%2B%2B+%7C+DSA;🧠+Building+Neural+Networks+from+Scratch;🏆+Codeforces+Grinder+%7C+LeetCode+Problem+Solver" alt="Typing SVG" />
-</a>
+  <img src="./assets/banner.png" width="100%" alt="Shivanshu Shukla — ML · DL · CP"/>
+</div>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shivanshu1512&label=Profile%20Views&color=7C3AED&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/shivanshu1512?label=Followers&style=flat-square&color=7C3AED" alt="followers"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     TYPING ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <a href="https://github.com/shivanshu1512">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=🤖+Machine+Learning+%26+Deep+Learning+Learner;🔥+PyTorch+%7C+TensorFlow+%7C+Scikit-Learn;⚡+Competitive+Programmer+%7C+C%2B%2B+%7C+DSA+%7C+Codeforces;🧠+Building+Neural+Networks+from+the+Ground+Up" alt="Typing SVG"/>
+  </a>
 
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=shivanshu1512&label=Profile+Views&color=7C3AED&style=flat-square" alt="profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/shivanshu1512?label=Followers&style=flat-square&color=7C3AED&logo=github" alt="followers"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shivanshu-shukla-7aa482327">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="linkedin"/>
+  </a>
+  &nbsp;
+  <a href="mailto:meshivanshu1512@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATISTICS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanshu1512&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=A855F7&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu1512&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshu1512&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=C9D1D9" height="175" alt="Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshu1512&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" width="97%" alt="Contribution Graph"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧬 About Me
 
 ```python
 class Shivanshu:
     def __init__(self):
-        self.name       = "Shivanshu Shukla"
-        self.role       = "ML / Deep Learning Learner"
-        self.languages  = ["Python", "C++"]
-        self.frameworks = ["PyTorch", "TensorFlow", "Keras", "Scikit-Learn"]
-        self.interests  = ["Neural Networks", "Computer Vision", "NLP", "RL"]
-        self.cp_handles = {
-            "Codeforces": "shukla_1512",
-            "LeetCode":   "Shivanshu1512"
-        }
-        self.currently_learning = ["Transformers", "GANs", "Reinforcement Learning"]
-        self.fun_fact   = "I debug neural nets more than I debug code 🧠"
+        self.name            = "Shivanshu Shukla"
+        self.focus           = ["Machine Learning", "Deep Learning", "Competitive Programming"]
+        self.frameworks      = ["PyTorch", "TensorFlow", "Keras", "Scikit-Learn"]
+        self.cp_handles      = {"Codeforces": "shukla_1512", "LeetCode": "Shivanshu1512"}
+        self.current_focus   = "PyTorch — custom training loops, datasets & autograd"
+        self.next_goals      = ["NLP & Transformers", "Computer Vision", "RL with PyTorch"]
+        self.fun_fact        = "I find debugging neural nets more satisfying than life itself 🧠"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's learn and build together 🚀")
+        print("Thanks for stopping by! Let's build something intelligent. 🚀")
 
 me = Shivanshu()
 me.say_hi()
@@ -46,169 +80,139 @@ me.say_hi()
 
 ---
 
-## 🤖 ML / Deep Learning Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+## 🛠️ Tech Stack
 
-| **Category** | **Tools & Libraries** |
-|:---:|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **DL Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) |
-| **ML Libraries** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white) |
-| **Data & Viz** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Environment** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+### 🤖 Machine Learning & Deep Learning
 
-</div>
+<p align="left">
+  <img src="./assets/icons/python.svg" width="48" height="48" alt="Python" title="Python"/>&nbsp;&nbsp;
+  <img src="./assets/icons/pytorch.svg" width="48" height="48" alt="PyTorch" title="PyTorch"/>&nbsp;&nbsp;
+  <img src="./assets/icons/tensorflow.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow"/>&nbsp;&nbsp;
+  <img src="./assets/icons/keras.svg" width="48" height="48" alt="Keras" title="Keras"/>&nbsp;&nbsp;
+  <img src="./assets/icons/sklearn.svg" width="48" height="48" alt="Scikit-Learn" title="Scikit-Learn"/>&nbsp;&nbsp;
+  <img src="./assets/icons/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy"/>&nbsp;&nbsp;
+  <img src="./assets/icons/pandas.svg" width="48" height="48" alt="Pandas" title="Pandas"/>&nbsp;&nbsp;
+  <img src="./assets/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib" title="Matplotlib"/>&nbsp;&nbsp;
+  <img src="./assets/icons/jupyter.svg" width="48" height="48" alt="Jupyter" title="Jupyter"/>&nbsp;&nbsp;
+  <img src="./assets/icons/anaconda.svg" width="48" height="48" alt="Anaconda" title="Anaconda"/>&nbsp;&nbsp;
+  <img src="./assets/icons/colab.svg" width="48" height="48" alt="Google Colab" title="Google Colab"/>
+</p>
+
+### ⚡ Competitive Programming & Tools
+
+<p align="left">
+  <img src="./assets/icons/cplusplus.svg" width="48" height="48" alt="C++" title="C++"/>&nbsp;&nbsp;
+  <img src="./assets/icons/python.svg" width="48" height="48" alt="Python" title="Python"/>&nbsp;&nbsp;
+  <img src="./assets/icons/git.svg" width="48" height="48" alt="Git" title="Git"/>&nbsp;&nbsp;
+  <img src="./assets/icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;
+  <img src="./assets/icons/vscode.svg" width="48" height="48" alt="VS Code" title="VS Code"/>
+</p>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   ML / DL ROADMAP                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🗺️ ML / DL Learning Roadmap
 
-<div align="center">
-
-```
-📐 FOUNDATIONS          ████████████████████  ✅ COMPLETE
-├── NumPy & Linear Algebra
-├── Pandas & Data Wrangling
-└── Matplotlib / Seaborn
-
-🤖 CLASSICAL ML          ████████████████████  ✅ COMPLETE
-├── Regression (Linear, Ridge, Lasso)
-├── Classification (SVM, RF, KNN, DT)
-├── Clustering (K-Means, DBSCAN)
-└── Feature Engineering & Model Evaluation
-
-🧠 DEEP LEARNING         ████████████████████  ✅ COMPLETE
-├── Neural Networks & Backpropagation  ✅
-├── CNNs & Computer Vision             ✅
-├── RNNs & LSTMs                       ✅
-└── Transformers & Attention           ✅
-
-🔥 PYTORCH               ████████░░░░░░░░░░░░  🔥 IN PROGRESS
-├── Tensors & Autograd                 ✅
-├── Custom Datasets & DataLoaders      🔥
-├── Model Training Loops               🔥
-└── Deployment (TorchScript)           📅
-
-🌐 NLP                   ░░░░░░░░░░░░░░░░░░░░  📅 UPCOMING
-├── Tokenization & Embeddings
-├── BERT & Fine-tuning
-└── LLMs & Prompt Engineering
-
-👁️ COMPUTER VISION       ░░░░░░░░░░░░░░░░░░░░  📅 UPCOMING
-├── Object Detection (YOLO)
-├── Image Segmentation
-└── GANs
-
-🎮 REINFORCEMENT LEARNING░░░░░░░░░░░░░░░░░░░░  📅 UPCOMING
-├── Q-Learning & DQN
-└── Policy Gradient Methods
-```
-
-</div>
+| Phase | Topics | Progress | Status |
+|:-----:|:-------|:--------:|:------:|
+| 📐 **Foundations** | NumPy · Pandas · Matplotlib · Seaborn | `████████████████████` 100% | ✅ Complete |
+| 🤖 **Classical ML** | Regression · Classification · Clustering · Feature Engineering | `████████████████████` 100% | ✅ Complete |
+| 🧠 **Deep Learning** | ANNs · CNNs · RNNs · Transformers · Backprop | `████████████████████` 100% | ✅ Complete |
+| 🔥 **PyTorch** | Tensors · Autograd · Custom Loops · Datasets | `████████░░░░░░░░░░░░` 40% | 🔥 Active |
+| 🌐 **NLP** | Tokenization · Word2Vec · BERT · LLMs | `░░░░░░░░░░░░░░░░░░░░` 0% | 📅 Up Next |
+| 👁️ **Computer Vision** | YOLO · Segmentation · GANs | `░░░░░░░░░░░░░░░░░░░░` 0% | 📅 Planned |
+| 🎮 **Reinforcement Learning** | Q-Learning · DQN · Policy Gradient | `░░░░░░░░░░░░░░░░░░░░` 0% | 📅 Planned |
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 COMPETITIVE PROGRAMMING                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚡ Competitive Programming
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://codeforces.com/profile/shukla_1512">
-        <img src="https://img.shields.io/badge/Codeforces-shukla__1512-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/Shivanshu1512/">
-        <img src="https://img.shields.io/badge/LeetCode-Shivanshu1512-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://codeforces.com/profile/shukla_1512">
+    <img src="https://img.shields.io/badge/Codeforces-shukla__1512-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Shivanshu1512/">
+    <img src="https://img.shields.io/badge/LeetCode-Shivanshu1512-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 
 </div>
 
-**Topics I grind:**
+<br/>
 
-| **Algorithms** | **Data Structures** | **Math** |
+<div align="center">
+
+| 🔁 Algorithms | 🌲 Data Structures | 🔢 Math & Theory |
 |:---:|:---:|:---:|
 | Dynamic Programming | Segment Trees | Number Theory |
-| Graph Algorithms (BFS/DFS/Dijkstra) | Fenwick Trees (BIT) | Combinatorics |
+| Graph Algorithms (BFS / DFS / Dijkstra / Floyd) | Fenwick Trees (BIT) | Combinatorics |
 | Binary Search & Two Pointers | Union-Find (DSU) | Modular Arithmetic |
-| Greedy & Constructive | Heaps & Priority Queues | Prime Sieve |
-| Backtracking | Tries & Hashing | Game Theory |
+| Greedy & Constructive | Heaps & Priority Queues | Prime Sieve (Eratosthenes) |
+| Backtracking & Recursion | Tries & Hashing | Game Theory |
+| Bit Manipulation | Monotonic Stack / Deque | Matrix Exponentiation |
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshu1512&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" height="175" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu1512&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&langs_count=8" height="175" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshu1512&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" height="175" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshu1512&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TROPHIES                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivanshu1512&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shivanshu1512&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 📫 Let's Connect
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="mailto:meshivanshu1512@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/shivanshu-shukla-7aa482327">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/shivanshu1512">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/shukla_1512">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/Shivanshu1512/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+  <a href="mailto:meshivanshu1512@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shivanshu-shukla-7aa482327">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/shivanshu1512">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/shukla_1512">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Shivanshu1512/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 
 </div>
 
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanshu1512/shivanshu1512/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanshu1512/shivanshu1512/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/shivanshu1512/shivanshu1512/output/github-snake.svg" />
-  </picture>
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<br/>
 
 <div align="center">
-  <i>⭐️ "The best way to understand intelligence is to build it." — Every ML practitioner ever</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+  <br/>
+  <i>⭐️ "The best way to understand intelligence is to build it." — Every ML engineer ever</i>
 </div>
