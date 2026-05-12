@@ -79,13 +79,13 @@ me.say_hi()
 ├── Clustering (K-Means, DBSCAN)
 └── Feature Engineering & Model Evaluation
 
-🧠 DEEP LEARNING         ████████████░░░░░░░░  🔥 IN PROGRESS
+🧠 DEEP LEARNING         ████████████████████  ✅ COMPLETE
 ├── Neural Networks & Backpropagation  ✅
-├── CNNs & Computer Vision             🔥
-├── RNNs & LSTMs                       🔥
-└── Transformers & Attention           📅
+├── CNNs & Computer Vision             ✅
+├── RNNs & LSTMs                       ✅
+└── Transformers & Attention           ✅
 
-🔥 PYTORCH               ████████████░░░░░░░░  🔥 IN PROGRESS
+🔥 PYTORCH               ████████░░░░░░░░░░░░  🔥 IN PROGRESS
 ├── Tensors & Autograd                 ✅
 ├── Custom Datasets & DataLoaders      🔥
 ├── Model Training Loops               🔥
