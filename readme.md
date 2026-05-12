@@ -12,7 +12,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <a href="https://github.com/shivanshu1512">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=🤖+Machine+Learning+%26+Deep+Learning+Learner;🔥+PyTorch+%7C+TensorFlow+%7C+Scikit-Learn;⚡+Competitive+Programmer+%7C+C%2B%2B+%7C+DSA+%7C+Codeforces;🧠+Building+Neural+Networks+from+the+Ground+Up" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Machine+Learning+%26+Deep+Learning+Learner+%F0%9F%A4%96;PyTorch+%7C+TensorFlow+%7C+Scikit-Learn+%F0%9F%94%A5;Competitive+Programmer+%7C+C%2B%2B+%7C+DSA+%7C+Codeforces+%E2%9A%A1;Building+Neural+Networks+from+the+Ground+Up+%F0%9F%A7%A0" alt="Typing SVG"/>
   </a>
 
   <br/><br/>
@@ -39,13 +39,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshu1512&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=A855F7&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=shivanshu1512&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=A855F7&text_color=C9D1D9" height="180" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu1512&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shivanshu1512&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshu1512&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=C9D1D9" height="175" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=shivanshu1512&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=C9D1D9" height="175" alt="Streak Stats"/>
 </div>
 
 <div align="center">
